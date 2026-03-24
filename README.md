@@ -117,7 +117,8 @@ How to Run the Project:
 
 5.	Open the .pbix file
 
-6.	Refresh data to view dashboard________________________________________
+6.	Refresh data to view dashboard
+________________________________________
 Future Enhancements:
 
 •	Add predictive analysis for future sales trends
